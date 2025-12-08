@@ -1,0 +1,2 @@
+-- name: ! \\#0ef\\R\\#0cf\\D\\#0bf\\N\\#09f\\ot\\#08f\\ify\\#FF0\\ v1.0
+-- description:\\#ffff33\\-- Notification System v1.0 --\n\n\\#dcdcdc\\A Made to create custom notifications for SM64 Coop DX!\nUse it in your mods for alerts, messages and more!\n\nCreated by:\\#008800\\ Retired64\n\n\\#AAAAFF\\Based on djoslin0's library\n\\#6666FF\\github.com/djoslin0/coop-lua-libraries/
