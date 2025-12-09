@@ -1,6 +1,6 @@
 # RD NOTIFY MESSAGE
 > [!NOTE]
-> Mod Version: 1.0
+> Mod Version: 1.0.1
 
 ### Notification System for SM64 Coop DX
 
