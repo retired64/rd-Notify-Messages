@@ -10,6 +10,8 @@ Requires sm64coopdx v1.4 or above
 
 ## What's this mod?
 
+![rd-System-Notify](.img/rd-notify.webp)
+
 Create custom visual notifications on screen to communicate with your friends during multiplayer. Perfect for announcing events, giving instructions, or just leaving funny messages.
 
 ## Commands (host only)
